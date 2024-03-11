@@ -67,4 +67,75 @@ Content:
 
 ![img-1](Images/N-1.png)
 
+![img-2](Images/N-2.png)
+
+![img-3](Images/N3.png)
+
+<a id = "9"></a><br>
+# Data Visualization 📊
+
+Visualization libraries such as __seaborn, matplotlib and plotly__ are used here.
+
+<a id = "10"></a><br>
+### Plotly🔥
+
+* **The prices of basic, standard and premium packages by country were visualized.**
+![img-4](Images/N4.png)
+
+
+![img-5](Images/N5.png)
+
+### Geographical Pricing Strategy: 
+Netflix employs a region-based pricing strategy. The cost variation across countries could be influenced by several factors including local economic conditions, average income levels, purchasing power parity, and local competition. For example, a higher price in one country might be due to greater purchasing power or less competition from other streaming services.
+
+### Market Penetration Goals:
+Netflix sometimes set lower prices in emerging markets to attract more subscribers and achieve market penetration. The goal might be to build a customer base quickly, especially in regions where digital streaming might be a relatively new concept.
+
+### Cost Adaptation to Local Content and Licensing:
+The cost may also reflect the amount and type of content available in each country. Licensing agreements for content are negotiated on a country-by-country basis, and the cost structure might reflect these agreements. Some countries might have a rich catalog of local content that's less expensive to license, allowing for lower subscription costs.
+
+### Strategic Positioning:
+In some countries, Netflix might face stiff competition from local streaming services, which could force it to adopt a more aggressive pricing strategy. Conversely, in markets where it holds a dominant position, it might price its services higher due to the lack of significant competition.
+
+### Cultural Value of Media Consumption: 
+In cultures where media consumption is highly valued and paid subscriptions are a norm, Netflix might price its services higher due to the higher perceived value. Conversely, in countries where free-to-air TV or piracy is rampant, they may need to lower the price to make the legal option more attractive.
+
+## Why is Switzerland and Liechtenstein are so high ??
+Cost of Living and Purchasing Power comes into play here the cost of living and average income are higher than in the United States. This could mean that consumers in these countries are able to afford higher subscription prices.The size and quality of the content library can vary significantly by country. In some countries, Netflix may offer a larger or more desirable selection of shows and movies, which can justify a higher subscription cost.Some European countries have a higher willingness to pay for digital services, which could explain why the prices are higher despite not all being classified as more developed than the US.
+
+# Diffrence with Pricing and Library Size 
+The graph depicting Netflix's library size against the subscription cost for selected countries reveals a nuanced pricing strategy. It appears that the subscription cost doesn't always correlate with the total library size, suggesting that factors beyond content volume influence pricing. For instance, higher-priced regions might reflect Netflix's market dominance or higher operating costs, while a larger library size in more competitive or economically diverse regions doesn't necessarily equate to higher prices, possibly due to strategic pricing to attract subscribers. This indicates that Netflix tailors its offerings and pricing to local market dynamics rather than adopting a one-size-fits-all approach.
+
+![img-6](Images/N6.png)
+
+<a id = "11"></a><br>
+### Seaborn⭐
+
+![img-7](Images/n7.png)
+
+![img-8](Images/N8.png)
+
+![img-9](Images/N9.png)
+
+<a id = "12"></a><br>
+# Linear regression Analysis and its Results:
+This result had The R-squared value obtained from the regression analysis was very low, indicating that the linear model does not effectively predict the 'Cost Per Month - Basic ($)' based on 'Total Library Size'. This suggests that the relationship between these two variables is not strongly linear, and other factors might influence subscription costs.
+
+![img-10](Images/N10.png)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
