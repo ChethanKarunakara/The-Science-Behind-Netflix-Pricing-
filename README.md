@@ -1,5 +1,5 @@
 # The-Science-Behind-Netflix-Pricing
-![Netflix Logo Animation](https://www.cinepremiere.com.mx/wp-content/uploads/2020/04/Netflix.gif)
+![Netflix Logo Animation](https://images.squarespace-cdn.com/content/v1/520b6dcee4b0734e32e29746/1553093622986-F8DCADFCEQGUZMAWVVTX/Netflix_anim.gif?format=2500w)
 
 📌Insights on why there is difference in pricing and deep Analysis on the pricing strategy 
 
