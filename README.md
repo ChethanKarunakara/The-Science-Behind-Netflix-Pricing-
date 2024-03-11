@@ -65,4 +65,6 @@ Content:
 * __Categorical Variable :__ Country
 * __Numerical Variable :__ Total Library Size, No. of TV Shows, No. of Movies, Cost Per Month - Basic, Cost Per Month - Standard, Cost Per Month - Premium
 
+![img-1](Images/N-1.png)
+
 
