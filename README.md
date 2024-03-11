@@ -1,7 +1,7 @@
 # The-Science-Behind-Netflix-Pricing
 ![Netflix Logo Animation](https://images.squarespace-cdn.com/content/v1/520b6dcee4b0734e32e29746/1553093622986-F8DCADFCEQGUZMAWVVTX/Netflix_anim.gif?format=2500w)
 
-📌Insights on why there is difference in pricing and deep Analysis on the pricing strategy 
+📌Insights on why there is difference in Pricing and Deep Analysis on the pricing strategy 
 
 📌In this project, data analysis was made on Netflix, a movie and series viewing platform.
 
