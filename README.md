@@ -37,8 +37,6 @@
 <font color = "green">
     
 Content:
-1. [Import Libraries](#1)
-1. [Load and Check Data](#2)
 1. [Variable Description](#3)
     * [Univarite Variable Analysis](#4)
         * [Categorical Variable Analysis](#5)
@@ -51,3 +49,20 @@ Content:
     * [Linear Regression](#12)
 1. [Conclusion](#13)
    
+<a id = "3"></a><br>
+# Variable Description 🚀
+
+* __Country:__ Some countries where Netflix is used.
+* __Total Library Size:__ Total number of movies and TV series aired in the country.
+* __No. of TV Shows:__ Total number of TV series broadcast in the country.
+* __No. of Movies:__ Total number of movies released in the country.
+* __Cost Per Month - Basic:__ The monthly price of the __"basic package".__
+* __Cost Per Month - Standard:__ The monthly price of the __"standard package".__
+* __Cost Per Month - Premium:__ The monthly price of the __"premium package".__
+
+<a id = "4"></a><br>
+# Univarite Variable Analysis ⚠️
+* __Categorical Variable :__ Country
+* __Numerical Variable :__ Total Library Size, No. of TV Shows, No. of Movies, Cost Per Month - Basic, Cost Per Month - Standard, Cost Per Month - Premium
+
+
