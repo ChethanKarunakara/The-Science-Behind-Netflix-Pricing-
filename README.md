@@ -123,6 +123,20 @@ This result had The R-squared value obtained from the regression analysis was ve
 
 ![img-10](Images/N10.png)
 
+## Diverse Pricing Strategy: 
+The scatter plot and subsequent analysis imply that Netflix employs a diverse pricing strategy across different countries, which does not strictly depend on the total library size. Factors such as local economic conditions, licensing agreements, competitive landscape, and market penetration goals likely play significant roles in determining subscription prices.
+
+## Netflix's Global Strategy:
+The variation in both 'Total Library Size' and 'Cost Per Month - Basic ($)' across countries highlights Netflix's tailored approach to each market. This adaptability allows Netflix to cater to local preferences and conditions, optimizing its service for global audiences.
+
+<a id = "13"></a><br>
+# Conclusion 
+This data visualization project on Netflix's global library and pricing strategy revealed the intricate balance between content volume and subscription costs across different markets. Through aesthetically engaging and interactive charts, we observed that pricing does not solely depend on library size, suggesting a nuanced approach to market penetration and competition. The weak correlation between the number of shows/movies and subscription cost highlighted the influence of other regional factors. Despite the challenges in establishing a strong linear relationship, the visual analysis offered valuable insights into Netflix's adaptable global strategy. Future explorations could benefit from incorporating broader datasets and multidimensional analysis to fully understand the streaming giant's positioning and decision-making process.
+
+
+
+
+
 
 
 
